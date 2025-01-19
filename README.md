@@ -1,5 +1,3 @@
-Here's the complete version of the content written in the structure you requested:
-
 ---
 
 # Computer Networking Slides (8th Edition)
