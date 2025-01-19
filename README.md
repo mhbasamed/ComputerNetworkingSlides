@@ -1,8 +1,12 @@
----
-
 # Computer Networking Slides (8th Edition)
 
 This repository contains slides from the book **"Computer Networking: A Top-Down Approach (8th Edition)"** by Jim Kurose and Keith Ross, providing a comprehensive understanding of networking topics.
+
+---
+
+## Chapters  
+
+
 
 ---
 
