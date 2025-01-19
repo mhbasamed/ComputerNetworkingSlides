@@ -6,12 +6,6 @@ This repository contains slides from the book **"Computer Networking: A Top-Down
 
 ## Chapters  
 
-
-
----
-
-## Chapters  
-
 ```
 Computer Networking Slides (8th Edition)
 ├── Chapter 1: Introduction            └── Overview of networking
