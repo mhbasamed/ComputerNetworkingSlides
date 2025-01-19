@@ -8,14 +8,14 @@ This repository contains slides from the book **"Computer Networking: A Top-Down
 
 ```
 Computer Networking Slides (8th Edition)
-├── Chapter 1: Introduction            └── Overview of networking
-├── Chapter 2: Application Layer       └── Network apps & protocols
-├── Chapter 3: Transport Layer        └── TCP/UDP & services
-├── Chapter 4: Network Layer: Data Plane └── Routing & forwarding
-├── Chapter 5: Network Layer: Control Plane └── SDN & protocols
-├── Chapter 6: Link Layer & LANs      └── Error detection & LANs
-├── Chapter 7: Wireless & Mobile Networks └── Wireless networking
-└── Chapter 8: Security               └── Network security & cryptography
+├── Chapter 1: Introduction
+├── Chapter 2: Application Layer
+├── Chapter 3: Transport Layer
+├── Chapter 4: Network Layer: Data Plane
+├── Chapter 5: Network Layer: Control Plane
+├── Chapter 6: Link Layer & LANs
+├── Chapter 7: Wireless & Mobile Networks
+└── Chapter 8: Security
 ```
 
 ---
